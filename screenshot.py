@@ -1,5 +1,4 @@
 from mss import mss
-import smtplib
 import sys,os
 
 with mss() as sct:
