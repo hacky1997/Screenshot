@@ -1,4 +1,4 @@
-# Screnshot
+# Screenshot
 It will take a screenshot.
 
 ## Usage
