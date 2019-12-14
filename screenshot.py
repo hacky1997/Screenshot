@@ -14,15 +14,3 @@ next(file)
 # file.save        
 # save = str(mss())     
 #open(save, "r")        
-# def sendmail(self,file):
-# mail = smtplib.SMTP('smtp.gmail.com',587)
-
-# mail.ehlo()
-
-# mail.starttls()
-
-# mail.login('sayaknaskar@gmail.com','8697925188')
-
-# mail.sendmail('sayaknaskar@gmail.com','naskar.sukumar.12@gmail.com',ss())
-
-# mail.close()
